@@ -10,3 +10,9 @@
 - A digital platform that provides education and resources to a grassroots movement that encourages African American find proper care to achieve safe, effective and full term pregnancies.
 
 - HELP - Amber S Yates-Brown needs some non-profit ideas for improving black maternal mortality rate in public health system. How can you help?
+
+https://www.cdc.gov/healthequity/features/maternal-mortality/index.html
+https://www.transylvaniatimes.com/news/n-carolina-violence-prevention-office-announced-by-governor/article_7dcc530e-c298-11ed-a1d7-73990dc041fa.html
+https://www.nih.gov/news-events/news-releases/nih-funded-study-highlights-stark-racial-disparities-maternal-deaths
+https://www.goodrx.com/health-topic/parenthood-pregnancy/black-maternal-health
+
