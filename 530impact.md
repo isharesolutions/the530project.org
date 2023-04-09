@@ -32,5 +32,13 @@ Ideas- 50/50 Raffle
 
 Bingo
 
+Black Maternal Health Week (April 11- 17)
+
+Budget
+
+By Laws
+
+Articles of Incorporation
+
 
 
