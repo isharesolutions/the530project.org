@@ -38,13 +38,33 @@ Black Maternal Health Week (April 11- 17)
 
 The Nest ------ The 530 Project's Community- providing support groups, events and services for 530 moms
 
-Runs HOME program- Helping Our Mothers - visiting maternal wards and NICU's, provide patient advocate recommendations, 
+Runs HOME program- Helping Our Mothers Everywhere (or Exceptionally) - visiting maternal wards and NICU's, provide patient advocate recommendations, care packages
 
 
 
 <u>**Budget**</u>
 
+**<u>Conflict of Interest Policy</u>** 
+
 <u>**By Laws**</u>
+
+<u>Article I</u> 
+
+The name of this corporation shall be The 530 Project.
+
+The business of the corporation shall be conducted as The 530 Project 
+
+<u>Article II</u>
+
+2.01 Purpose 
+
+The 530 Project is a nonprofit corporation and shall be operated exclusively for educational and charitable purposes within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code. Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers. 
+
+2.02 Powers
+
+The corporation shall have the power, directly or indirectly, alone or in conjunction or cooperation with others , to do any and all lawful acts which may be necessary or convenient to affect the charitable purposes, for which the corporation is organized, and to aid or assist other organizations or persons whose activities further accomplish, foster, or attain such purposes.
+
+
 
 **<u>Articles of Incorporation</u>**
 
