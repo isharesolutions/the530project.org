@@ -48,15 +48,13 @@ Runs HOME program- Helping Our Mothers Everywhere (or Exceptionally) - visiting 
 
 <u>**By Laws**</u>
 
-<u>Article I</u> 
+<u>Article I</u> Name
 
 The name of this corporation shall be The 530 Project.
 
 The business of the corporation shall be conducted as The 530 Project 
 
-<u>Article II</u>
-
-2.01 Purpose 
+<u>Article II</u> Purpose 
 
 The 530 Project is a nonprofit corporation and shall be operated exclusively for educational and charitable purposes ~~within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code.~~ Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers. 
 
@@ -72,7 +70,44 @@ The 530 Project is a nonprofit corporation and shall be operated exclusively for
 
 ~~The 530 Project is a Maryland nonprofit corporation, recognized~~ 
 
-Article III
+<u>Article III</u> Membership
+
+3.01 No Membership Classes The corporation shall have no membership class and no members who have any right to vote or title or interest in or to the corporation. 
+
+3.02 Non--Voting Affiliates
+
+The governing body may approve classes of non-voting affiliates with rights, privileges, and obligations established by the board. Affiliates may be individuals, businesses, and other organizations that seek to support the mission of the corporation. The board, a designated committee, or a duly elected officer in accordance with board policy, shall have authority to admit any individual or organization as an affiliate, to recognize representatives of affiliates, and to make determinations as to affiliates' rights, privileges, and obligations. 
+
+At no time shall affiliate information be shared with or sold to other organizations or groups without the affiliate's consent. At the discretion of the board, affiliates may be given endorsement, recognition and media coverage at fundraising activities, clinics, other events or at the corporation website. Affiliates have no voting rights, and are not members of the corporation.
+
+3.03 Dues
+
+Any dues for affiliates shall be determined by resolutions and these bylaws.
+
+~~Member-as-Donor~~
+
+~~Member-as-Consumer~~
+
+~~Member-as-Advocate~~
+
+<u>Article IV</u> Board of Directors
+
+4.01 Number of Directors
+
+The 530 Project shall have a board of directors consisting of at least 3 and no more than 14 directors. Within these limits, the board may increase or decrease he number of directors serving on the board, including for the purpose of staggering the terms of directors.
+
+4.02 Powers
+
+All corporate legal powers shall be exercised by or under the authority of the board and the affairs of The 530 Project shall be managed under the direction of the board, except as otherwise provided by law
+
+4.03 Terms
+
+- All directors shall be elected to serve a one- year term, however the term may be extended until a successor has been elected.
+- Director terms shall be staggered so that approximately half the number of directors will end their terms in any given year.
+- Directors may serve terms in succession.
+- The term of office shall be considered to begin January 1 and end December 31 of the same year in office, unless the term is extended until such time as a successor has been elected.
+
+
 
 
 
