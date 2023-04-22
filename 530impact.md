@@ -58,11 +58,21 @@ The business of the corporation shall be conducted as The 530 Project
 
 2.01 Purpose 
 
-The 530 Project is a nonprofit corporation and shall be operated exclusively for educational and charitable purposes within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code. Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers. 
+The 530 Project is a nonprofit corporation and shall be operated exclusively for educational and charitable purposes ~~within the meaning of Section 501 (c)(3) of the Internal Revenue Code of 1986, or the corresponding section of any future Federal tax code.~~ Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers. 
 
-2.02 Powers
+~~2.02 Powers~~
 
-The corporation shall have the power, directly or indirectly, alone or in conjunction or cooperation with others , to do any and all lawful acts which may be necessary or convenient to affect the charitable purposes, for which the corporation is organized, and to aid or assist other organizations or persons whose activities further accomplish, foster, or attain such purposes.
+~~The corporation shall have the power, directly or indirectly, alone or in conjunction or cooperation with others , to do any and all lawful acts which may be necessary or convenient to affect the charitable purposes, for which the corporation is organized, and to aid or assist other organizations or persons whose activities further accomplish, foster, or attain such purposes.~~
+
+~~The Legal powers of the corporation may include , but not be limited to, the acceptance of contributions from the public and private sectors, whether financial or in-kind contributions.~~ 
+
+~~2.03 Nonprofit Status and Exempt Activities Limitation~~
+
+~~Nonprofit Legal Status~~
+
+~~The 530 Project is a Maryland nonprofit corporation, recognized~~ 
+
+Article III
 
 
 
