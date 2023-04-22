@@ -107,9 +107,42 @@ All corporate legal powers shall be exercised by or under the authority of the b
 - Directors may serve terms in succession.
 - The term of office shall be considered to begin January 1 and end December 31 of the same year in office, unless the term is extended until such time as a successor has been elected.
 
+4.04 Qualifications and Election of Directors
 
+In order to be eligible to serve as a director, the individual must be 18 years of age and an affiliate within affiliate classifications created by the board. Directors may be elected at any board meeting by the majority vote. The election of directors to replace those who have fulfilled their term of office shall take place in January of each year.
 
+4.05 Vacancies
 
+The board of directors may fill vacancies due to the expirations of a director's term of office, resignation, death, or removal of a director or may appoint new directors to fill a previously unfilled position, subject to the maximum number of directors under these Bylaws.
+
+- Unexpected Vacancies. Vacancies due to resignation, death, or removal shall be filled by the board members for the balance of the term of the director being replaced.
+
+4.06 Removal of Directors
+
+A director may be removed by two-thirds vote of directors then in office, if:
+
+- the director is absent and unexcused from two or more board meetings in a twelve month period. The president is empowered to excuse directors from attendance for a reason deemed adequate by the president. The president shall not have the power to excuse him/herself from the board meeting attendance and in that case, the vice president shall excuse the president, Or:
+- for case or no cause, if before any meeting of the members at which a vote on removal will be made the director in question is given electronic or written notification of the board's intention to discuss her/his case and is given the opportunity to be hear at a meeting.
+
+4.07 Board of Directors Meetings
+
+- Regular Meetings- The board of directors shall have a minimum of four (4) regular meetings each calendar year at times and places fixed by the board. These meetings shall be held upon four (4) days notice by email or forty-eight (48) hours notice delivered personally or by telephone. If sent by email, the notice shall be deemed ti be delivered upon its deposit in the transmission system. Notice of meetings shall specify the place, day and time of meeting. The purpose of the meeting need not be specified. 
+- Special Meetings- Special meetings may be called by the president, vice president, secretary, treasurer or any two (2) other directors. A special meeting must be preceded by at lease 2 days notice to each director of the date, time, and place but not the purpose, of the meeting.
+
+4.08 Manner of Acting
+
+- Quorum- A majority of the directors in office immediately before a meeting shall constitute a quorum for the transaction of business at that meeting. No business shall be considered by the board at any meeting at which a quorum is not present.
+- Majority Vote- Except as otherwise required by law or by the articles of incorporation, the act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the board.
+- Hung Decisions- On the occasion that directors are unable to make a decision based on a tied number of votes, the president or treasurer in the order of presence shall have the power to swing the vote based in his/her discretion. 
+- Participation- Except as required otherwise by law, the Articles of Incorporation, or these Bylaws, directors may participate in a regular or special meeting through the use of any means of communication by which all directors participating may simultaneously hear each other during the meeting, including in person, video meeting or by telephone conference call.
+
+4.09 Compensation for Board Members for Services
+
+Directors shall receive no compensation for carrying our their duties as directors. The board may adopt policies providing for reasonable reimbursement of directors for expenses incurred with carrying out board responsibilities. 
+
+<u>Article V</u> Officers
+
+<u>Article VI</u> Committees
 
 **<u>Articles of Incorporation</u>**
 
