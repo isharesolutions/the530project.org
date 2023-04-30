@@ -18,7 +18,7 @@ https://www.goodrx.com/health-topic/parenthood-pregnancy/black-maternal-health
 
 "Small changes and small steps can create massive impact"
 
-**Purpose**- Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers and bring equitable treatment in the medical
+**Purpose**- Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers and bring about equitable treatment in the medical community
 
 My birth story- In 2011 I welcomed my first daughter at 32 weeks. As a young mother I was frightened and never received any answers from my physicians. In 2012 I found out I was expecting a second child. This time I was even more nervous based on my first delivery. At 30 weeks I started to have contractions and was admitted to the hospital for 8 weeks on mandatory bed rest. My second daughter was delivered at 38 weeks again with no real explanation from any physicians. In 2022 I was again blessed to be expecting my third child. This time around I did more research and came prepared for my first visit with my provider. I asked at each of my visits for a cervical stitch also known as a cerclage. Despite all my efforts to be my own advocate I was met with being dismissed, given no answers or support from my medical team. I was told I was not a candidate for a cerclage since I had never lost a child (despite my preterm deliveries) and instead was told to take Makena; a medication I had taken with my second pregnancy and is currently under review to be pulled by the FDA for being ineffective. At 20 weeks during my anatomy scan I was met with the scariest news; my cervix was opened and I was immediately sent to labor and delivery for monitoring. After several hours of monitoring it was determined that I wasn't in active labor. Only at this time was a cerclage offered and it came with extreme risks based on how far along I was. As an alternative I was given at home bed rest and medication after the hospital staff refused to keep me. Over the next week I went to the emergency room on 3 different occasions; each time being sent away and again dismissed. On May 29, 2022 I again visited the emergency room with the same symptoms and this time my heart broke. My son's amniotic sac had bulged through my open cervix and there was nothing available to save him. On May 30, 2022 at 9:46 am I gave birth to my son Jamel meaning Beautiful in Arabic. My absolute final straw was at my follow up, receiving "reassurance" from my physician saying now I was a perfect candidate for a cerclage and they would "know now" if I wanted to get pregnant again. This was the ultimate slap in the face for this medical team to think that I would trust them with my care ever again. Why did they not care to help me at every plea I made leading up to this tragic loss. From there on I would do everything in my power to get justice for my son and ensure that no other mother is treated in this way again. 
 
@@ -141,6 +141,44 @@ A director may be removed by two-thirds vote of directors then in office, if:
 Directors shall receive no compensation for carrying our their duties as directors. The board may adopt policies providing for reasonable reimbursement of directors for expenses incurred with carrying out board responsibilities. 
 
 <u>Article V</u> Officers
+
+The officers of the corporation shall be a president, vice president, secretary and treasurer, all of whom shall be chosen by the board of directors. Each officer shall have authority and shall perform the duties set forth in these Bylaws or by resolution of the board or by direction of an officer authorized by the board to prescribe the duties and authority of the other officers.
+
+The board may also appoint additional vice presidents and such other officers as it deems expedient for the proper conduct of the business of the corporation, each of whom shall have such authority and shall perform such duties as the board of directors may determine.
+
+One person may hold two or more offices, but no officer may act in more than one capacity where action of two or more officers is required.
+
+5.02 Term of Office
+
+Each officer shall serve a one year term of office. 
+
+5.03 Removal and Resignation
+
+The board of directors may remove an officer at any time with or without cause. Any officer may resign at any time by giving written notice to the corporation without prejudice to the rights, if any, of the corporation under any contract to which the officer is a party. Any resignation shall take effect at the date of the receipt of the notice or at any later time specified in the notice, unless otherwise specified in the notice. The acceptance of the resignation shall not be necessary to make it effective.
+
+5.04 President
+
+The president shall serve as the chief volunteer officer of the corporation. The president shall lead the board of directors in performing its duties and responsibilities, including, if present, presiding at all meetings of directors and shall preform all other duties incident to the office and properly required by the board
+
+
+
+5.05 Vice President
+
+In the absence or disability of the president, the ranking vice president shall perform the duties of the president. When so acting, the vice president shall have all the legal powers of and be subject to all the restrictions upon the president. The vice president shall have such other powers and perform such other duties prescribed for them by the board or the president. The vice president shall normally accede to the office of the president upon he completion of the president's term of office.
+
+5.06 Secretary
+
+The secretary shall keep or cause to be kept a book of minutes of all meetings and actions of directors and committees of directors.  The minutes of each meeting shall state the time and place that it was held and such other information as shall be necessary to determine the actions taken and whether the meeting was held in accordance the law and these Bylaws.
+
+The secretary shall cause notice to be given of all meetings of directors and committees as required by the Bylaws. The secretary shall have such powers and perform such other duties as may be prescribes by the board or the president. The secretary may appoint, with approval of the board, a director to assist in performance of all or part of the duties of the secretary.
+
+5.07 Treasurer
+
+The treasurer shall be the lead director for oversight of the financial condition and affairs of the corporation. 
+
+The treasurer shall oversee and keep the governing body informed of the financial condition of the corporation and of audit or financial review results. In conjunction with other directors or officers, the treasurer shall oversee budget preparation and shall ensure that appropriate financial reports, including an account of major transactions and the financial condition of the corporation, are made available to the board on a timely bases or as may be required by the board. 
+
+The treasurer shall perform all duties properly required by the board of the president. The treasurer may appoint , with approval from the board, a qualified fiscal agent or member of the staff to assist in performance of all or part of the duties of the treasurer. 
 
 <u>Article VI</u> Committees
 
