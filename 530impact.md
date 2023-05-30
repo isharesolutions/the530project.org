@@ -40,9 +40,19 @@ The Nest ------ The 530 Project's Community- providing support groups, events an
 
 Runs HOME program- Helping Our Mothers Everywhere (or Exceptionally) - visiting maternal wards and NICU's, provide patient advocate recommendations, care packages
 
+530 Block Party/ Day of Service
+
+Proceeds towards 530 Scholarship for black students pursuing careers aimed to help black mothers
+
+-OBGYN
+
+-Nursing 
+
+-Psychology
 
 
-<u>**Budget**</u>
+
+**<u>Program Plan & Budget</u>**
 
 **<u>Conflict of Interest Policy</u>** 
 
@@ -184,11 +194,22 @@ The treasurer shall perform all duties properly required by the board of the pre
 
 Article VII Contracts, Checks, Loans, Indemnification
 
-Article VIII Conflict of Interest Policy
+Article VIII Miscellaneous
 
+​	8.1  Conflict of Interest Policy
 
+The board shall adopt and periodically review a conflict of interest policy to protect the corporation's interest when it is contemplating any transaction or arrangement which may benefit any director, officer, employee, affiliate or member of a committee with board-delegated powers. 
+
+​	8.2  Books and Records
+
+The corporation shall keep correct and complete books and records of account and shall keep minutes of the proceedings of all meetings of it's board, a record of all actions taken by board of directors without a meeting, and a record of all actions taken by committees of the organization. In addition, the corporation shall keep a copy of the organization's Articles of Incorporation and Bylaws as amended to date.
+
+​	8.3 Fiscal Year
+
+The fiscal year of the corporation shall be from January 1 to December 31 of each year. 
 
 **<u>Articles of Incorporation</u>**
 
 
 
+ 
