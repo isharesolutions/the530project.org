@@ -28,17 +28,17 @@ https://grants.maryland.gov/Documents/ChecklistNonProfit.pdf
 
 **<u>Program Plan & Budget</u>**
 
-Program Name: H.O.M.E Again (Helping Our Mothers)
+Program Names: H.O.M.E Again (Helping Our Moms Effectively),  530 Project Scholarship Program (MD & Midwife)
 
-The program name should be clear, concise, and easy to remember. It should also be relevant to the program's goals and objectives.
+<u>*The program name should be clear, concise, and easy to remember. It should also be relevant to the program's goals and objectives.*</u>
 
 Program Goals and Objectives:
 
-Support expecting and new mothers find the community they need including health advocates, support groups and other resources. The program goals and objectives should be specific, measurable, achievable, relevant, and time-bound. They should also be aligned with the non-profit's mission and vision.
+**Initiative: Support expecting and new mothers find the community they need including health advocates, support groups and other resources.** <u>The program goals and objectives should be specific, measurable, achievable, relevant, and time-bound. They should also be aligned with the non-profit's mission and vision.</u>
 
 Program Activities:
 
-Maternity ward care packages The program activities should be designed to achieve the program goals and objectives. They should be realistic, feasible, and cost-effective.
+(HOME Again) Maternity ward care package deliveries, support groups and panels/workshops.  The program activities should be designed to achieve the program goals and objectives. They should be realistic, feasible, and cost-effective.
 
 Program Evaluation:
 
