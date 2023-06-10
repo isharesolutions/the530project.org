@@ -16,15 +16,78 @@ https://www.transylvaniatimes.com/news/n-carolina-violence-prevention-office-ann
 https://www.nih.gov/news-events/news-releases/nih-funded-study-highlights-stark-racial-disparities-maternal-deaths
 https://www.goodrx.com/health-topic/parenthood-pregnancy/black-maternal-health
 
+https://grants.maryland.gov/Documents/ChecklistNonProfit.pdf
+
 "Small changes and small steps can create massive impact"
 
-**Purpose**- Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers and bring about equitable treatment in the medical community
+**Purpose**- Our purpose as an organization is to support and protect the health, mental well being and healing of black mothers and bring about equitable treatment and appropriate care plans in the medical community.
 
-My birth story- In 2011 I welcomed my first daughter at 32 weeks. As a young mother I was frightened and never received any answers from my physicians. In 2012 I found out I was expecting a second child. This time I was even more nervous based on my first delivery. At 30 weeks I started to have contractions and was admitted to the hospital for 8 weeks on mandatory bed rest. My second daughter was delivered at 38 weeks again with no real explanation from any physicians. In 2022 I was again blessed to be expecting my third child. This time around I did more research and came prepared for my first visit with my provider. I asked at each of my visits for a cervical stitch also known as a cerclage. Despite all my efforts to be my own advocate I was met with being dismissed, given no answers or support from my medical team. I was told I was not a candidate for a cerclage since I had never lost a child (despite my preterm deliveries) and instead was told to take Makena; a medication I had taken with my second pregnancy and is currently under review to be pulled by the FDA for being ineffective. At 20 weeks during my anatomy scan I was met with the scariest news; my cervix was opened and I was immediately sent to labor and delivery for monitoring. After several hours of monitoring it was determined that I wasn't in active labor. Only at this time was a cerclage offered and it came with extreme risks based on how far along I was. As an alternative I was given at home bed rest and medication after the hospital staff refused to keep me. Over the next week I went to the emergency room on 3 different occasions; each time being sent away and again dismissed. On May 29, 2022 I again visited the emergency room with the same symptoms and this time my heart broke. My son's amniotic sac had bulged through my open cervix and there was nothing available to save him. On May 30, 2022 at 9:46 am I gave birth to my son Jamel meaning Beautiful in Arabic. My absolute final straw was at my follow up, receiving "reassurance" from my physician saying now I was a perfect candidate for a cerclage and they would "know now" if I wanted to get pregnant again. This was the ultimate slap in the face for this medical team to think that I would trust them with my care ever again. Why did they not care to help me at every plea I made leading up to this tragic loss. From there on I would do everything in my power to get justice for my son and ensure that no other mother is treated in this way again. 
+<u>**(Revise)**</u> My birth story- In 2011 I welcomed my first daughter at 32 weeks. As a young mother I was extremely frightened and never received any answers from my physicians. In 2012 I found out I was expecting a second child. This time I was even more nervous based on my first delivery. At 30 weeks I started to have contractions and was admitted to the hospital for 8 weeks on mandatory bed rest. My second daughter was delivered at 38 weeks again with no real explanation from any physicians. In 2022 I was again blessed to be expecting my third child. This time around I did more research and came prepared for my first visit with my provider. I asked at each of my visits for a cervical stitch also known as a cerclage. Despite all my efforts to be my own advocate I was met with being dismissed, given no answers or support from my medical team. I was told I was not a candidate for a cerclage since I had never lost a child (despite my preterm deliveries) and instead was told to take Makena; a medication I had taken with my second pregnancy and is currently under review to be pulled by the FDA for being ineffective. At 20 weeks during my anatomy scan I was met with the scariest news; my cervix was opened and I was immediately sent to labor and delivery for monitoring. After several hours of monitoring it was determined that I wasn't in active labor. Only at this time was a cerclage offered and it came with extreme risks based on how far along I was. As an alternative I was given at home bed rest and medication after the hospital staff refused to keep me. Over the next week I went to the emergency room on 3 different occasions; each time being sent away and again dismissed. On May 29, 2022 I again visited the emergency room with the same symptoms and this time my heart broke. My son's amniotic sac had bulged through my open cervix and there was nothing available to save him. On May 30, 2022 at 9:34 am I gave birth to my son Jamel.  My absolute final straw was at my follow up, receiving "reassurance" from my physician saying now I was a perfect candidate for a cerclage and they would "know now" if I wanted to get pregnant again. This was the ultimate slap in the face for this medical team to think that I would trust them with my care ever again. Why did they not care to help me at every plea I made leading up to this tragic loss. From there on I would do everything in my power to get justice for my son and ensure that no other mother is treated in this way again. Black mothers deserve to have their voices heard and out of this tragedy The 530 Project was created
 
-**Mission**- Our mission is to support policy change and legislation, engage in advocacy and improve care solutions to bring equity to expecting black mothers and their babies.
+**Mission**- Our mission is to support medical protocol/ policy changes, engage in advocacy and improve care solutions to bring equity to expecting black mothers and their babies.
 
-<u>Fundraising Plan</u>
+**<u>Program Plan & Budget</u>**
+
+Program Name: H.O.M.E Again (Helping Our Mothers)
+
+The program name should be clear, concise, and easy to remember. It should also be relevant to the program's goals and objectives.
+
+Program Goals and Objectives:
+
+Support expecting and new mothers find the community they need including health advocates, support groups and other resources. The program goals and objectives should be specific, measurable, achievable, relevant, and time-bound. They should also be aligned with the non-profit's mission and vision.
+
+Program Activities:
+
+Maternity ward care packages The program activities should be designed to achieve the program goals and objectives. They should be realistic, feasible, and cost-effective.
+
+Program Evaluation:
+
+Quarterly we will assess our programs reach and gather feedback on its effectiveness. The program evaluation should be used to assess the program's effectiveness in achieving its goals and objectives. It should be conducted on a regular basis and used to make improvements to the program.
+
+Program Budget:
+
+*The program budget should be realistic and should be used to track the program's expenses. It should be updated on a regular basis to reflect changes in the program's activities.*
+
+Program Staffing:
+
+*The program staffing should be sufficient to carry out the program activities. The staff should be qualified and experienced in the program's area of focus.*
+
+Program Marketing:
+
+*The program marketing should be used to reach the program's target audience. It should be designed to increase awareness of the program and to encourage people to participate.*
+
+Program Risks:
+
+*The program risks should be identified and mitigated. The risks should be monitored on a regular basis and adjustments should be made as needed.*
+
+Program Timeline:
+
+*The program timeline should be realistic and should be used to track the program's progress. It should be updated on a regular basis to reflect changes in the program's activities.*
+
+Program Conclusion:
+
+*The program conclusion should summarize the program's goals, objectives, activities, evaluation, budget, staffing, marketing, risks, and timeline. It should also highlight the program's successes and challenges.*
+
+2024-2027 530 Project Budget Forecast
+
+| Expected Income | Amount | Description |
+| --------------- | ------ | ----------- |
+|                 |        |             |
+
+   Grants 				10,000
+
+   Donations				5,000
+
+| Expense                   | Amount  | Description                                                  |
+| ------------------------- | ------- | ------------------------------------------------------------ |
+| Salaries                  | $5,000  | This includes the salaries of the executive director, program director, and two staff members. |
+|                           |         |                                                              |
+| Utilities                 | $1,000  | This includes the cost of electricity, water, and internet for the office space. |
+| Marketing and fundraising | $1,000  | This includes the cost of advertising, public relations, and fundraising events. |
+| Program expenses          | $1,000  | This includes the cost of materials and supplies for the non-profit's programs. |
+| Total                     | $10,000 | This is the total budget for the non-profit.                 |
+
+Fundraising Plan
 
 Ideas- 50/50 Raffle 
 
@@ -32,7 +95,7 @@ Ideas- 50/50 Raffle
 
 Bingo
 
-Black Maternal Health Week (April 11- 17)
+Black Maternal Health Week (April 11- 17) 
 
 **<u>Programs</u>**
 
@@ -40,7 +103,7 @@ The Nest ------ The 530 Project's Community- providing support groups, events an
 
 Runs HOME program- Helping Our Mothers Everywhere (or Exceptionally) - visiting maternal wards and NICU's, provide patient advocate recommendations, care packages
 
-530 Block Party/ Day of Service
+5/30 Block Party/ Day of Service
 
 Proceeds towards 530 Scholarship for black students pursuing careers aimed to help black mothers
 
@@ -210,6 +273,58 @@ The fiscal year of the corporation shall be from January 1 to December 31 of eac
 
 **<u>Articles of Incorporation</u>**
 
+**ARTICLES OF INCORPORATION**
+
+**of** **The 530 Project**
 
 
- 
+
+**A Nonprofit Corporation**
+
+**Article I. Name**
+
+The name of the corporation is The 530 Project
+
+**Article II. Purpose**
+
+The purpose of the corporation is to support and protect the health, mental well being and healing of black mothers and bring about equitable treatment and appropriate care plans in the medical community
+
+**Article III. Registered Office and Agent**
+
+The registered office of the corporation in the State of [State] shall be located at [Address of Registered Office]. The name and address of the registered agent of the corporation in the State of [State] shall be [Name and Address of Registered Agent].
+
+**Article IV. Board of Directors**
+
+The number of directors of the corporation shall be [Number of Directors]. The names and addresses of the initial directors of the corporation are as follows:
+
+- Amber Yates 7209 Thackley Way Hanover, MD 21076
+- Jamel EliYah 7209 Thackley Way Hanover, MD 21076
+- Brenda Yates 5307 Konrad Drive Temple Hills, MD 20748
+
+**Article V. Officers**
+
+
+
+The officers of the corporation shall be a president, a vice president, a secretary, and a treasurer. The officers shall be elected by the board of directors and shall hold office until their successors are elected and qualified.
+
+**Article VI. Indemnification**
+
+The corporation shall indemnify its directors and officers to the fullest extent permitted by law.
+
+**Article VII. Amendments**
+
+These articles of incorporation may be amended by a majority vote of the board of directors, provided that the proposed amendment is approved by a majority vote of the members of the corporation.
+
+**Article VIII. Dissolution**
+
+Upon the dissolution of the corporation, its assets shall be distributed to one or more organizations that are organized and operated exclusively for charitable purposes, as determined by the board of directors.
+
+**IN WITNESS WHEREOF**, the undersigned have executed these articles of incorporation on this [Date] day of [Month], [Year].
+
+[Signature of Incorporator 1]
+
+[Printed Name of Incorporator 1]
+
+[Signature of Incorporator 2]
+
+[Printed Name of Incorporator 2] 
