@@ -68,15 +68,15 @@ Program Conclusion:
 
 *The program conclusion should summarize the program's goals, objectives, activities, evaluation, budget, staffing, marketing, risks, and timeline. It should also highlight the program's successes and challenges.*
 
-2024-2027 530 Project Budget Forecast
+**<u>2024-2027 530 Project Budget Forecast</u>**
 
 | Expected Income | Amount | Description |
 | --------------- | ------ | ----------- |
 |                 |        |             |
 
-   Grants 				10,000
+   Yearly Grants 				10,000
 
-   Donations				5,000
+   Yearly Donations				5,000
 
 | Expense                   | Amount  | Description                                                  |
 | ------------------------- | ------- | ------------------------------------------------------------ |
@@ -115,7 +115,7 @@ Proceeds towards 530 Scholarship for black students pursuing careers aimed to he
 
 
 
-**<u>Program Plan & Budget</u>**
+
 
 **<u>Conflict of Interest Policy</u>** 
 
@@ -215,7 +215,7 @@ Directors shall receive no compensation for carrying our their duties as directo
 
 <u>Article V</u> Officers
 
-The officers of the corporation shall be a president, vice president, secretary and treasurer, all of whom shall be chosen by the board of directors. Each officer shall have authority and shall perform the duties set forth in these Bylaws or by resolution of the board or by direction of an officer authorized by the board to prescribe the duties and authority of the other officers.
+The officers of the corporation shall be a director, secretary and treasurer, all of whom shall be chosen by the board of directors. Each officer shall have authority and shall perform the duties set forth in these Bylaws or by resolution of the board or by direction of an officer authorized by the board to prescribe the duties and authority of the other officers.
 
 The board may also appoint additional vice presidents and such other officers as it deems expedient for the proper conduct of the business of the corporation, each of whom shall have such authority and shall perform such duties as the board of directors may determine.
 
@@ -229,15 +229,15 @@ Each officer shall serve a one year term of office.
 
 The board of directors may remove an officer at any time with or without cause. Any officer may resign at any time by giving written notice to the corporation without prejudice to the rights, if any, of the corporation under any contract to which the officer is a party. Any resignation shall take effect at the date of the receipt of the notice or at any later time specified in the notice, unless otherwise specified in the notice. The acceptance of the resignation shall not be necessary to make it effective.
 
-5.04 President
+5.04 Director
 
-The president shall serve as the chief volunteer officer of the corporation. The president shall lead the board of directors in performing its duties and responsibilities, including, if present, presiding at all meetings of directors and shall preform all other duties incident to the office and properly required by the board
+The director shall serve as the chief volunteer officer of the corporation. The president shall lead the board of directors in performing its duties and responsibilities, including, if present, presiding at all meetings of directors and shall preform all other duties incident to the office and properly required by the board
 
 
 
-5.05 Vice President
+~~5.05 Vice President~~
 
-In the absence or disability of the president, the ranking vice president shall perform the duties of the president. When so acting, the vice president shall have all the legal powers of and be subject to all the restrictions upon the president. The vice president shall have such other powers and perform such other duties prescribed for them by the board or the president. The vice president shall normally accede to the office of the president upon he completion of the president's term of office.
+~~In the absence or disability of the president, the ranking vice president shall perform the duties of the president. When so acting, the vice president shall have all the legal powers of and be subject to all the restrictions upon the president. The vice president shall have such other powers and perform such other duties prescribed for them by the board or the president. The vice president shall normally accede to the office of the president upon he completion of the president's term of office.~~
 
 5.06 Secretary
 
@@ -273,9 +273,7 @@ The fiscal year of the corporation shall be from January 1 to December 31 of eac
 
 **<u>Articles of Incorporation</u>**
 
-**ARTICLES OF INCORPORATION**
-
-**of** **The 530 Project**
+**ARTICLES OF INCORPORATION****of** **The 530 Project**
 
 
 
@@ -283,39 +281,47 @@ The fiscal year of the corporation shall be from January 1 to December 31 of eac
 
 **Article I. Name**
 
-The name of the corporation is The 530 Project
+The name of the corporation shall be The 530 Project
 
 **Article II. Purpose**
 
-The purpose of the corporation is to support and protect the health, mental well being and healing of black mothers and bring about equitable treatment and appropriate care plans in the medical community
+The purpose of the corporation is to support and protect the health, mental well being and healing of black mothers and bring about equitable treatment and appropriate care plans in the medical community. 
 
-**Article III. Registered Office and Agent**
+The purpose of the corporation is to support and protect the physical health, mental well being and healing of black families.  This will be achieved by advocacy, to bring about equitable treatment in medical environments, providing opportunities for the youth to engage in sports and physical activity in a safe and supportive environment and 
 
-The registered office of the corporation in the State of [State] shall be located at [Address of Registered Office]. The name and address of the registered agent of the corporation in the State of [State] shall be [Name and Address of Registered Agent].
+The purpose of the corporation is to support and protect the physical health, mental well being and and healing of black mothers and children. We do this by providing a variety of services, including.
+
+Education and Awareness: We provide resources to mothers and children about healtheir and well-being.
+
+Access to Opportunity: We provide opportunities for youth to participate in sports and physical activity in a safe and supportive environment.
+
+Advocacy: We advocate for policies and programs that support that health and well being of black mothers and youth.
+
+Support
+
+We believe that all mothers and their children right to be healthy and to reach their full potential. Mother should have the right and support to appropiate care plans and advocacy to have thier voies heard from their medical teams.
+
+**Article III. Registered Agent**
+
+The registered agent for the corporation shall be Amber Yates (7209 Thackley Way Hanover, MD 21076)
 
 **Article IV. Board of Directors**
 
 The number of directors of the corporation shall be [Number of Directors]. The names and addresses of the initial directors of the corporation are as follows:
 
-- Amber Yates 7209 Thackley Way Hanover, MD 21076
-- Jamel EliYah 7209 Thackley Way Hanover, MD 21076
-- Brenda Yates 5307 Konrad Drive Temple Hills, MD 20748
+- Amber Yates 7209 Thackley Way Hanover, MD 21076 shall be the director
+- Jamel EliYah 7209 Thackley Way Hanover, MD 21076 shall be the treasurer
+- Brenda Yates 5307 Konrad Drive Temple Hills, MD 20748 shall be the secretary
 
-**Article V. Officers**
+**Article V. Indemnification**
 
+The corporation shall indemnify its directors and officers to the fullest extent permitted by law
 
-
-The officers of the corporation shall be a president, a vice president, a secretary, and a treasurer. The officers shall be elected by the board of directors and shall hold office until their successors are elected and qualified.
-
-**Article VI. Indemnification**
-
-The corporation shall indemnify its directors and officers to the fullest extent permitted by law.
-
-**Article VII. Amendments**
+**Article VI. Amendments**
 
 These articles of incorporation may be amended by a majority vote of the board of directors, provided that the proposed amendment is approved by a majority vote of the members of the corporation.
 
-**Article VIII. Dissolution**
+**Article VII. Dissolution**
 
 Upon the dissolution of the corporation, its assets shall be distributed to one or more organizations that are organized and operated exclusively for charitable purposes, as determined by the board of directors.
 
